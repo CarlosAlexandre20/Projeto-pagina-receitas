@@ -1,3 +1,7 @@
+:root {
+    font-family: "Alice", serif;
+}
+
 body {
     background-image: url(imagens/background.jpg);
     background-size: cover;
@@ -10,4 +14,18 @@ body {
     background-color: #F0E8C2;
     border-radius: 24PX;
     margin: 24px auto;
+}
+
+h1{
+    line-height: 140%;
+    font-size: 40px;
+}
+
+p{
+    font-size: 16px;
+    line-height: 150%;
+}
+
+h2{
+    font-size: 24px;
 }
